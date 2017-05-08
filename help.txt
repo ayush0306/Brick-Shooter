@@ -1,0 +1,17 @@
+The game is called "Fall of the Berlin Wall".
+
+In the game , three types of bricks fall from the top of the window with a speed that is controllable by the user. The scoring is done accordingly.
+
+The three types of bricks are red,green,black. The game consists of tow baskets, green and red, that collect the falling bricks. The game ends if a black brick falls into one of the basket.
+
+The points scored are :-
+
+	+10*100*fallRate -> if brick falls into basket of own colour
+	+20*100*fallRate -> if shoot black brick
+	-10*100*fallRate -> if shoot green/red brick
+
+One can also change the position of the cannon and also its angle before shooting lasers. Also, after a laser beam is hsot it takes 1 second to recharge that.
+
+I have also provided mouse controls. If you click somewhere nearby a bucket or cannon, you select that object and can them move them in their constrained path.
+
+

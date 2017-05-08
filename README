@@ -1,0 +1,6 @@
+1. A battery on top that recharges every 1 second. This indicates when a laser is ready to shoot again.
+2. All basic controls as mentioned in the assignment pdf are used except the following :-
+
+	To pan the screen, you have to first click the right mouse button and then use arrow keys to pan the area.
+
+The blocks are dissapearing at the upper level of buckets. So basically, they either FALL in a bucket or dissapear.
